@@ -1,3 +1,9 @@
+'''
+Project Name : Hangman_game
+designed by  : Dinesh Kumar G
+designed on  : 28.06.2025 , 11.00am
+purpose      : creating a simple and creative game in python
+'''
 import tkinter as tk
 from tkinter import messagebox
 import random
